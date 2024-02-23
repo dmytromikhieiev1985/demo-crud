@@ -21,7 +21,9 @@ $ php -S localhost:8000 -t public/
 Available endpoint
 
 GET http://localhost:8000/users
+
 GET http://localhost:8000/users/:id
+
 POST http://localhost:8000/users
 ```
 {
